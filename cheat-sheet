@@ -1,0 +1,13 @@
+# Mongodb
+Installed using homebrew
+version: 4.0.2
+run using: mongod
+data stored in default location /data/db
+access using: mongo --host 127.0.0.1:27017
+
+# Node.js
+Installed using homebrew
+version 10.12.0
+run using: node
+
+
